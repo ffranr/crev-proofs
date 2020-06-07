@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-07T20:54:08.559121436+01:00"
+from:
+  id-type: crev
+  id: TGhwAuUGxax01vV7aTxKYokkx82LCdTECZ1qe16eUIQ
+  url: "https://github.com/rffrancon/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num_cpus
+  version: 1.12.0
+  revision: ae4492e91bd04a374905b7d62c60eea5f51c14f6
+  digest: vYFAiH4CZX_3W_CpIP5OJHmSZOrbC2U7pg_uALxQUbw
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+Q4NXCqqILCOXhPUlYnXsthCuhFDAhVgbiZ0oTvsWGyReWCxOll0LCI2lTi8gCG4VLnMEwfyC24F0WO9XEHjgAA
+----- END CREV PROOF -----
+
